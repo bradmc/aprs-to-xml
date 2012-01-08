@@ -1,0 +1,15 @@
+[config]
+map_url=http://maps.aprsworld.net/mapserver/map.php
+
+[aprs_database]
+host=
+database=
+username=
+password=
+
+[local_database]
+host=localhost
+database=
+username=
+password=
+
